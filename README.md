@@ -16,7 +16,7 @@ Then there are 2 options :
 
 Then
 
-- Open the env.example folder . Fill the token lign with a Discord Bot token (Obtainable on https://discord.com/developers/applications) If you are struggling with this part please look at [this article](https://discordpy.readthedocs.io/en/stable/discord.html#)
+- Open the env.example folder . Fill the token lign with a Discord Bot token (Obtainable on https://discord.com/developers/applications) If you are struggling with this part please look at [this article](https://discordpy.readthedocs.io/en/stable/discord.html#). To fill in the Key go to [Fortnite Api](https://dash.fortnite-api.com/account) and login. Then enter your api key in the file
 - Rename env.example to .env
 
 - Once all done either do node . in your command shell or run run.bat
